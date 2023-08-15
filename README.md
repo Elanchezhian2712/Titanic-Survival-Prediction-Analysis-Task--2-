@@ -36,3 +36,5 @@ _**ROC Curve and AUC:**_
 
    
 The analysis provides insights into survival determinants and assesses the model's predictive ability.
+
+# Outcome:
