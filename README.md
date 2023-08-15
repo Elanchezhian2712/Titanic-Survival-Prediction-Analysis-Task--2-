@@ -38,3 +38,6 @@ _**ROC Curve and AUC:**_
 The analysis provides insights into survival determinants and assesses the model's predictive ability.
 
 # Outcome:
+
+https://github.com/Elanchezhian2712/Titanic-Survival-Prediction-Analysis-Task--2-/assets/122656808/2a63a660-80f5-4f99-a2e2-279c8f418315
+
