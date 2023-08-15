@@ -4,27 +4,35 @@
 __**Description:**__
 This code analyzes the Titanic dataset using logistic regression to predict passenger survival. It covers data preprocessing, exploratory data analysis, model training and evaluation, as well as feature interpretation. The goal is to identify influential survival factors and assess model performance.
 
+
 **Sections:**
 
 _****Exploratory Data Analysis:****_
 
-Visualize survival patterns and demographics.
-Missing data heatmap for identifying gaps.
-Survival visualization by gender and passenger class.
-Data Cleaning:
+1. Visualize survival patterns and demographics.
+2. Missing data heatmap for identifying gaps.
+3. Survival visualization by gender and passenger class.
 
-Impute missing ages based on passenger class averages.
-Drop Cabin column and rows with missing Embarked data.
-Convert categorical features to numerical dummy variables.
-Building a Logistic Regression Model:
 
-Split data for training and testing.
-Scale feature data for consistency.
-Train, predict, and evaluate a logistic regression model.
-Coefficient Analysis:
+_**Data Cleaning:**_
 
-Identify top feature coefficients and interpretation.
-ROC Curve and AUC:
+1. Impute missing ages based on passenger class averages.
+2. Drop Cabin column and rows with missing Embarked data.
+3. Convert categorical features to numerical dummy variables.
 
-Calculate and visualize the ROC curve and AUC score.
+_**Building a Logistic Regression Model:**_
+
+1. Split data for training and testing.
+2. Scale feature data for consistency.
+3. Train, predict, and evaluate a logistic regression model.
+
+_**Coefficient Analysis:**_
+
+1. Identify top feature coefficients and interpretation.
+
+_**ROC Curve and AUC:**_
+
+1. Calculate and visualize the ROC curve and AUC score.
+
+   
 The analysis provides insights into survival determinants and assesses the model's predictive ability.
